@@ -1,2 +1,2 @@
 # meu-primeiro-site
-meu prmeiro site pequenos talentos
+meu primeiro site pequenos talentos
